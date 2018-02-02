@@ -1,0 +1,1 @@
+start /B composer update
